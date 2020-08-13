@@ -1,0 +1,8 @@
+{
+  "appid": "wx0e5311e4bea5bd76",
+  "orientation": "portrait",
+  "separate_engine": false,
+  "REMOTE_SERVER_ROOT": "http://127.0.0.1:8080/",
+  "subContext": "",
+  "startSceneAssetBundle": false
+}

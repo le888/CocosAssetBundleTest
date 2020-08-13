@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0",
+  "name": "AssetBundleTest",
+  "id": "0b4ba430-23f4-4145-8545-a32bcf4355e3",
+  "isNew": false
+}
